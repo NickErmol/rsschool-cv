@@ -8,6 +8,10 @@ Address                      Minsk city
 Nationality                  Belarus
 -------------------     --------------------------------------------------------
 
+Position
+--------
+Frontend developer
+
 Education
 ---------
 High Education
