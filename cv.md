@@ -15,9 +15,10 @@ Frontend developer
 Education
 ---------
 High Education
-2009-2014	**Belorussian State University of informatics and radio**
-            **electronics Faculty of computer systems and networks**
 
+2009-2014
+:    **Belorussian State University of informatics and radio**
+            **electronics Faculty of computer systems and networks**
 
 Experience
 ----------
@@ -25,6 +26,7 @@ Experience
 	**JSC "AGAT - SYSTEM"**
 
 Software engineer
+
 2015 - 2018
 :      Desktop application development of State IT system for Social protection. 
        This is the common IT system for activity automation of labor institutes,
